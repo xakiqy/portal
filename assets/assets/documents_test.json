@@ -1,0 +1,2750 @@
+[
+  {
+    "id": "07dc6d68-5fda-48d1-946b-9e40d5894f04",
+    "uploadDate": "2025-05-07T12:19:07.0461217Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "cfb3f6bd-2559-400c-aedc-ea3b0de97258",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "TestVika TestVika",
+    "authorEmail": "meepamo@mailto.plus",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-05-07T12:19:07.4875566Z",
+      "actionId": "eb416a9a-d8e4-4d77-b2e9-97d31aedc5ec",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-05-07T12:19:07.2004976Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "3224107887",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Вікторія Коваль"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-05-07T12:19:07.2200432Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-05-07T12:19:07.0461344Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "f968bb2c-d52a-48fb-9d0e-bfbfde647b3d",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "ddf5d629-5a9d-4fd9-a907-a476ce87b7b8",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": true,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Додаткова_угода_додаткові_послуги_2",
+    "date": "2025-05-07T00:00:00",
+    "dateString": "07.05.2025",
+    "number": "27/1",
+    "typeId": 3,
+    "fileName": "Додаткова_угода_додаткові_послуги_2.docx.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "3224107887",
+        "name": "КОВАЛЬ ВІКТОРІЯ ОЛЕКСАНДРІВНА",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": "07.05.2025"
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1746620347,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 10000,
+    "endDate": "2025-05-07T00:00:00",
+    "endDateString": "07.05.2025",
+    "baseDocumentNumber": "27",
+    "storageReceiptNumber": null,
+    "basedocumentid": "ddf5d629-5a9d-4fd9-a907-a476ce87b7b8",
+    "storageReceiptId": null,
+    "links": [
+      {
+        "linkedDocumentId": "1712244a-5165-4e0a-8706-1a76fa87d7c0",
+        "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+        "type": 0,
+        "isPrivate": true
+      }
+    ],
+    "viewers": null
+  },
+  {
+    "id": "1712244a-5165-4e0a-8706-1a76fa87d7c0",
+    "uploadDate": "2025-05-07T12:16:44.5333667Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "cfb3f6bd-2559-400c-aedc-ea3b0de97258",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "TestVika TestVika",
+    "authorEmail": "meepamo@mailto.plus",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-05-07T12:16:45.192933Z",
+      "actionId": "74e8f8a5-7101-4271-b306-37b1e5c926c0",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-05-07T12:16:44.7545901Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "3224107887",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Вікторія Коваль"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-05-07T12:16:44.7740319Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-05-07T12:16:44.5333838Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "f968bb2c-d52a-48fb-9d0e-bfbfde647b3d",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "5632f362-d01b-4ac1-a339-d2953ec1e7f1",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": true,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Договір надання послуг тест",
+    "date": "2025-05-07T00:00:00",
+    "dateString": "07.05.2025",
+    "number": "27",
+    "typeId": 1,
+    "fileName": "договір надання послуг.docx.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "3224107887",
+        "name": "КОВАЛЬ ВІКТОРІЯ ОЛЕКСАНДРІВНА",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [
+      {
+        "name": "Жито 1-го класу",
+        "year": 2025
+      }
+    ],
+    "additionalData": {},
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1746620347,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1000000,
+    "endDate": "2025-05-07T00:00:00",
+    "endDateString": "07.05.2025",
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "5632f362-d01b-4ac1-a339-d2953ec1e7f1",
+    "storageReceiptId": null,
+    "links": [
+      {
+        "linkedDocumentId": "07dc6d68-5fda-48d1-946b-9e40d5894f04",
+        "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+        "type": 0,
+        "isPrivate": true
+      }
+    ],
+    "viewers": null
+  },
+  {
+    "id": "2607de85-8b6c-4f78-a5fa-7bebd31186a9",
+    "uploadDate": "2025-05-07T10:29:52.4437164Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "cfb3f6bd-2559-400c-aedc-ea3b0de97258",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "TestVika TestVika",
+    "authorEmail": "meepamo@mailto.plus",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-05-07T10:29:54.8434916Z",
+      "actionId": "9befa77c-ed84-4e16-b088-ca04958f6eac",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-05-07T10:29:53.0863661Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "3224107887",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Вікторія Коваль"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-05-07T10:29:53.6891372Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-05-07T10:29:52.4437327Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "f968bb2c-d52a-48fb-9d0e-bfbfde647b3d",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "d4d34cd8-b010-46e4-8571-da8de0ee1127",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": true,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Додаткова_угода_додаткові_послуги_2.docx",
+    "date": "2025-05-07T00:00:00",
+    "dateString": "07.05.2025",
+    "number": "17/1",
+    "typeId": 3,
+    "fileName": "Додаткова_угода_додаткові_послуги_2.docx.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "3224107887",
+        "name": "КОВАЛЬ ВІКТОРІЯ ОЛЕКСАНДРІВНА",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": "07.05.2025"
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1746613794,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 50000,
+    "endDate": "2025-05-07T00:00:00",
+    "endDateString": "07.05.2025",
+    "baseDocumentNumber": "17",
+    "storageReceiptNumber": null,
+    "basedocumentid": "d4d34cd8-b010-46e4-8571-da8de0ee1127",
+    "storageReceiptId": null,
+    "links": [
+      {
+        "linkedDocumentId": "b5c56e92-8641-4c38-a3ee-c3c65215f379",
+        "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+        "type": 0,
+        "isPrivate": true
+      }
+    ],
+    "viewers": null
+  },
+  {
+    "id": "b5c56e92-8641-4c38-a3ee-c3c65215f379",
+    "uploadDate": "2025-05-07T10:28:27.2565742Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "cfb3f6bd-2559-400c-aedc-ea3b0de97258",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "TestVika TestVika",
+    "authorEmail": "meepamo@mailto.plus",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-05-07T10:28:37.595419Z",
+      "actionId": "ae3b54be-9e22-4a43-a7bf-b955a638ef44",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-05-07T10:28:31.1781036Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "3224107887",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Вікторія Коваль"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-05-07T10:28:32.7571132Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-05-07T10:28:27.2565871Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "f968bb2c-d52a-48fb-9d0e-bfbfde647b3d",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "cc9926e0-794e-4228-b54c-43604757f212",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": true,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "договір тест",
+    "date": "2025-05-07T00:00:00",
+    "dateString": "07.05.2025",
+    "number": "17",
+    "typeId": 1,
+    "fileName": "договір надання послуг.docx.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "3224107887",
+        "name": "КОВАЛЬ ВІКТОРІЯ ОЛЕКСАНДРІВНА",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [
+      {
+        "name": "Тверда пшениця 1-го класу",
+        "year": 2025
+      }
+    ],
+    "additionalData": {},
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1746613795,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 120000,
+    "endDate": "2025-05-07T00:00:00",
+    "endDateString": "07.05.2025",
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "cc9926e0-794e-4228-b54c-43604757f212",
+    "storageReceiptId": null,
+    "links": [
+      {
+        "linkedDocumentId": "2607de85-8b6c-4f78-a5fa-7bebd31186a9",
+        "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+        "type": 0,
+        "isPrivate": true
+      }
+    ],
+    "viewers": null
+  },
+  {
+    "id": "87c0537a-ac9e-4ca2-887c-f9224c677f01",
+    "uploadDate": "2025-05-07T10:03:10.2174733Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "cfb3f6bd-2559-400c-aedc-ea3b0de97258",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "TestVika TestVika",
+    "authorEmail": "meepamo@mailto.plus",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-05-07T10:03:18.8251254Z",
+      "actionId": "02b80bd6-89da-4cbc-8c6c-9cf855bcad7a",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-05-07T10:03:14.5083362Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "3224107887",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Вікторія Коваль"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-05-07T10:03:14.7725224Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-05-07T10:03:10.2174888Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "f968bb2c-d52a-48fb-9d0e-bfbfde647b3d",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "445748da-d376-44eb-b36f-ac9dca027efa",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": true,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Додаткова_угода_додаткові_послуги_2.docx",
+    "date": "2025-05-07T00:00:00",
+    "dateString": "07.05.2025",
+    "number": "7/1",
+    "typeId": 3,
+    "fileName": "Додаткова_угода_додаткові_послуги_2.docx.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "3224107887",
+        "name": "КОВАЛЬ ВІКТОРІЯ ОЛЕКСАНДРІВНА\n3224107887",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": "07.05.2025"
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1746612200,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 500000,
+    "endDate": "2025-05-07T00:00:00",
+    "endDateString": "07.05.2025",
+    "baseDocumentNumber": "7",
+    "storageReceiptNumber": null,
+    "basedocumentid": "445748da-d376-44eb-b36f-ac9dca027efa",
+    "storageReceiptId": null,
+    "links": [
+      {
+        "linkedDocumentId": "0c3357e3-48b5-4a1c-9e72-39cbd30c42fd",
+        "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+        "type": 0,
+        "isPrivate": true
+      }
+    ],
+    "viewers": null
+  },
+  {
+    "id": "0c3357e3-48b5-4a1c-9e72-39cbd30c42fd",
+    "uploadDate": "2025-05-07T10:00:09.734213Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "cfb3f6bd-2559-400c-aedc-ea3b0de97258",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "TestVika TestVika",
+    "authorEmail": "meepamo@mailto.plus",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-05-07T10:00:12.7338477Z",
+      "actionId": "bf825be8-d0a2-4600-a5c6-53031aed416a",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-05-07T10:00:12.0090433Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "3224107887",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Вікторія Коваль"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-05-07T10:00:12.0977752Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-05-07T10:00:09.7355103Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "f968bb2c-d52a-48fb-9d0e-bfbfde647b3d",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "f2e0460b-8a86-4305-855a-0a59bda60ecc",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": true,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "договір про надання послуг",
+    "date": "2025-05-07T00:00:00",
+    "dateString": "07.05.2025",
+    "number": "7",
+    "typeId": 1,
+    "fileName": "договір надання послуг.docx.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "3224107887",
+        "name": "КОВАЛЬ ВІКТОРІЯ ОЛЕКСАНДРІВНА",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [
+      {
+        "name": "М'яка пшениця 3-го класу",
+        "year": 2025
+      }
+    ],
+    "additionalData": {},
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1746612202,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1000000,
+    "endDate": "2025-05-07T00:00:00",
+    "endDateString": "07.05.2025",
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "f2e0460b-8a86-4305-855a-0a59bda60ecc",
+    "storageReceiptId": null,
+    "links": [
+      {
+        "linkedDocumentId": "87c0537a-ac9e-4ca2-887c-f9224c677f01",
+        "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+        "type": 0,
+        "isPrivate": true
+      }
+    ],
+    "viewers": null
+  },
+  {
+    "id": "09259d3c-759c-4bdb-ba52-288db65d4fa1",
+    "uploadDate": "2025-05-07T07:57:55.2102311Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-05-07T07:57:56.3868549Z",
+      "actionId": "dc119363-3b35-4476-a392-e791737cabbc",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-05-07T07:57:55.8121078Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "3224107887",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Вікторія Коваль"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-05-07T07:57:55.9349447Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-05-07T07:57:55.2102515Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "f968bb2c-d52a-48fb-9d0e-bfbfde647b3d",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "71c3f2f3-b8d0-4845-9aea-76729e3dbc39",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": true,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Файл для тесту",
+    "date": "2025-05-07T00:00:00",
+    "dateString": "07.05.2025",
+    "number": "22",
+    "typeId": 3,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "3224107887",
+        "name": "КОВАЛЬ ВІКТОРІЯ ОЛЕКСАНДРІВНА",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": "03.04.2025"
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1746604676,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 20000,
+    "endDate": "2025-05-31T00:00:00",
+    "endDateString": "31.05.2025",
+    "baseDocumentNumber": "1",
+    "storageReceiptNumber": null,
+    "basedocumentid": "71c3f2f3-b8d0-4845-9aea-76729e3dbc39",
+    "storageReceiptId": null,
+    "links": [
+      {
+        "linkedDocumentId": "53833c99-80d6-4da0-ae30-5b95991a9497",
+        "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+        "type": 0,
+        "isPrivate": true
+      }
+    ],
+    "viewers": null
+  },
+  {
+    "id": "53833c99-80d6-4da0-ae30-5b95991a9497",
+    "uploadDate": "2025-04-03T07:17:26.4530431Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 300,
+      "statusChangeDate": "2025-04-03T07:26:59.0372576Z",
+      "actionId": "db2462fb-5c92-40c1-a9ba-31b42b44fb59",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": null,
+      "targets": [
+        {
+          "dateStatusChange": "2025-04-03T07:26:58.803503Z",
+          "comment": "відхилення",
+          "status": 300,
+          "actionViewState": 2,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2754712085",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Чугунна Оксана Михайлівна"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-04-03T07:17:28.2440706Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-04-03T07:17:26.4531409Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "d766bcdc-4666-44f4-8d39-b46ae17c36d0",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "b98abc2b-feda-4d83-9d2c-ad182b0e0652",
+    "status": 4,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": true,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Файл для тесту",
+    "date": "2025-04-03T00:00:00",
+    "dateString": "03.04.2025",
+    "number": "1",
+    "typeId": 1,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2754712085",
+        "name": "Чугунна Оксана Михайлівна",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [
+      {
+        "name": "Кукурудза 1-го класу",
+        "year": 2024
+      }
+    ],
+    "additionalData": {},
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1746604676,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 10000,
+    "endDate": "2025-04-04T00:00:00",
+    "endDateString": "04.04.2025",
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "b98abc2b-feda-4d83-9d2c-ad182b0e0652",
+    "storageReceiptId": null,
+    "links": [
+      {
+        "linkedDocumentId": "09259d3c-759c-4bdb-ba52-288db65d4fa1",
+        "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+        "type": 0,
+        "isPrivate": true
+      }
+    ],
+    "viewers": null
+  },
+  {
+    "id": "b4141837-fbf3-402c-af01-174daaeb245a",
+    "uploadDate": "2025-03-19T10:20:50.3220403Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": "Oksana Chugunna",
+    "senderUserName": "Oksana Chugunna",
+    "senderEmail": "oksanachugunna@gmail.com",
+    "senderUserIds": [
+      "d4cbcd94-a588-44c4-850a-6231db27813b"
+    ],
+    "senderClaimIds": [
+      "c149a4b0-c547-48df-a931-38f279bd6390"
+    ],
+    "actions": [
+      {
+        "type": 2,
+        "status": 0,
+        "state": 0,
+        "statusChangeDate": "2025-03-19T10:20:50.7856535Z",
+        "comment": null,
+        "viewState": 2,
+        "deadlineDate": null,
+        "deadlineAction": 0,
+        "delegatedFromClaimValue": null,
+        "delegatedToClaimValue": null,
+        "id": "edac6d21-22bb-46f5-b4b9-41452c73d4e5",
+        "targetClaimSource": 0,
+        "signatureType": 0
+      }
+    ],
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:20:51.4251819Z",
+      "actionId": "df79d3e3-6dfe-4d7f-98eb-8e0d343492b0",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:20:50.6131664Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "12345678",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Тестове підприємство \"ТЕСТ ДС\""
+        },
+        {
+          "dateStatusChange": "2025-03-19T10:20:50.6162034Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        },
+        {
+          "dateStatusChange": "2025-03-19T10:20:50.7647941Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "23536915",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "РЕГАЛ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:20:50.7839093Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:20:50.3220445Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "37d111c2-1d86-4866-adeb-d09164225c9e"
+    ],
+    "labels": null,
+    "mainDocumentId": "a6061a9e-73b9-4a9f-b59f-a042351f2624",
+    "status": 6,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "15",
+    "typeId": 15,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "23536915",
+        "name": "РЕГАЛ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "StorageReceiptDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742379651,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": null,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "a6061a9e-73b9-4a9f-b59f-a042351f2624",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "a456eeeb-ad6e-4ba8-8994-54465b6ecde4",
+    "uploadDate": "2025-03-19T10:19:06.1725426Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:19:06.9513512Z",
+      "actionId": "3b1418af-b19d-4d62-a898-7f13e2d02ffe",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:19:06.4840007Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:19:06.5230481Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:19:06.1725477Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "259dc59e-007b-4ce8-94aa-8289f26af3a8",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "14",
+    "typeId": 14,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742379547,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "259dc59e-007b-4ce8-94aa-8289f26af3a8",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "be515d68-872b-4b30-8d2b-95a96f405dcd",
+    "uploadDate": "2025-03-19T10:17:22.2459664Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:17:22.6761974Z",
+      "actionId": "e4993b47-7752-48ac-aee0-9c0a6b673984",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:17:22.4493561Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:17:22.4680261Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:17:22.2459722Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "c7bfe1cf-b5f8-472d-93a2-d8bbc969b0e5",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "13",
+    "typeId": 13,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742379442,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "c7bfe1cf-b5f8-472d-93a2-d8bbc969b0e5",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "0e51167b-287e-4bef-ac56-d937504c80e3",
+    "uploadDate": "2025-03-19T10:16:13.2748699Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": "Oksana Chugunna",
+    "senderUserName": "Oksana Chugunna",
+    "senderEmail": "oksanachugunna@gmail.com",
+    "senderUserIds": [
+      "d4cbcd94-a588-44c4-850a-6231db27813b"
+    ],
+    "senderClaimIds": [
+      "c149a4b0-c547-48df-a931-38f279bd6390"
+    ],
+    "actions": [
+      {
+        "type": 2,
+        "status": 300,
+        "state": 0,
+        "statusChangeDate": "2025-04-01T08:03:20.637992Z",
+        "comment": "test",
+        "viewState": 2,
+        "deadlineDate": null,
+        "deadlineAction": 0,
+        "delegatedFromClaimValue": null,
+        "delegatedToClaimValue": null,
+        "id": "02f5bef7-7ad7-4fbc-aef3-f18e3636e731",
+        "targetClaimSource": 0,
+        "signatureType": 0
+      }
+    ],
+    "flowProgress": {
+      "type": 2,
+      "status": 300,
+      "statusChangeDate": "2025-04-01T08:03:21.0251304Z",
+      "actionId": "78a32230-a08e-44a2-b8d2-156a5c5c56f2",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 50,
+      "groupName": null,
+      "targets": [
+        {
+          "dateStatusChange": "2025-04-01T08:03:20.637992Z",
+          "comment": "test",
+          "status": 300,
+          "actionViewState": 2,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "12345678",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Тестове підприємство \"ТЕСТ ДС\""
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:16:13.5057332Z",
+        "actionType": 0,
+        "actionStatus": 200
+      },
+      {
+        "date": "2025-03-19T10:16:13.7498138Z",
+        "actionType": 2,
+        "actionStatus": 300
+      }
+    ],
+    "creationDate": "2025-03-19T10:16:13.2748734Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "76c1c3cb-d3c1-41a7-87ac-d6797d6905c3",
+    "status": 4,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Є",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "12",
+    "typeId": 12,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1743494601,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": null,
+    "endDate": "2025-06-12T00:00:00",
+    "endDateString": "12.06.2025",
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "76c1c3cb-d3c1-41a7-87ac-d6797d6905c3",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "755cb823-72d4-406e-9bb4-3648824d6c4f",
+    "uploadDate": "2025-03-19T10:12:57.1347893Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 1,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:12:57.5476644Z",
+      "actionId": "1d6e72ec-0c00-4781-853d-4b9fb71303aa",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Погодження елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:12:57.3066665Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:12:57.3254437Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:12:57.1348032Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "38c08d62-e361-4e45-8278-4139be86c063",
+    "status": 1,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "11",
+    "typeId": 11,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [
+      {
+        "name": "Тверда пшениця 1-го класу",
+        "year": 2024
+      }
+    ],
+    "additionalData": {
+      "BaseDocumentDate": null,
+      "Weight": "20",
+      "StorageReceiptDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742379177,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": null,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "38c08d62-e361-4e45-8278-4139be86c063",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "e04e60c8-196f-44a7-b3c3-c36055213e20",
+    "uploadDate": "2025-03-19T10:09:27.778235Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 1,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:09:28.1362621Z",
+      "actionId": "4b35afee-eca1-4dc6-99e2-490da885d25d",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Погодження елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:09:27.9022879Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:09:27.9225753Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:09:27.7782392Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "d337d457-7d62-41b6-85f8-1237e06afcd2",
+    "status": 1,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "10",
+    "typeId": 10,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [
+      {
+        "name": "Тверда пшениця 1-го класу",
+        "year": 2024
+      }
+    ],
+    "additionalData": {
+      "BaseDocumentDate": null,
+      "Weight": "20",
+      "StorageReceiptDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378968,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": null,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "d337d457-7d62-41b6-85f8-1237e06afcd2",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "dd62f7ce-c168-46fa-ba98-a4f15060d520",
+    "uploadDate": "2025-03-19T10:08:28.9328947Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:08:29.6086763Z",
+      "actionId": "86ace59b-b947-4c83-adda-19f4e9e9d64c",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:08:29.2092206Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:08:29.2307115Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:08:28.9328972Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "4147b6fb-0c0f-489b-8adb-1882ab0382a6",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "9",
+    "typeId": 9,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [
+      {
+        "name": "Тверда пшениця 1-го класу",
+        "year": 2024
+      }
+    ],
+    "additionalData": {
+      "BaseDocumentDate": null,
+      "Weight": "20"
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378909,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": null,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "4147b6fb-0c0f-489b-8adb-1882ab0382a6",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "2b81cf3d-6a12-4dcd-8460-a45821e5822c",
+    "uploadDate": "2025-03-19T10:07:34.1184365Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:07:34.6120637Z",
+      "actionId": "6eeb6d07-b5bd-4ab3-8e5b-29e8c80a83a7",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:07:34.3312185Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:07:34.3746549Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:07:34.1184396Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "225393ed-de02-4160-a662-72ac06cddf7a",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "8",
+    "typeId": 8,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378854,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "225393ed-de02-4160-a662-72ac06cddf7a",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "cb1c21bc-da69-426e-ae64-8672168218d4",
+    "uploadDate": "2025-03-19T10:06:51.4228621Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:06:51.7818831Z",
+      "actionId": "92567603-81c8-41c9-abe5-61efd106c08f",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:06:51.5533177Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:06:51.5701552Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:06:51.4228658Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "283574ee-ce36-4dd6-865c-a0de96e127f5",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "7",
+    "typeId": 7,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378811,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "283574ee-ce36-4dd6-865c-a0de96e127f5",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "c20b6a6f-c708-469f-91df-faa2339c51eb",
+    "uploadDate": "2025-03-19T10:06:09.0458409Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:06:09.6455746Z",
+      "actionId": "9555612a-aad9-4e4f-8b27-572b34be21ab",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:06:09.2954351Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:06:09.3194514Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:06:09.045845Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "dde7a998-e4d2-44fd-aff1-394852d47c99",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "6",
+    "typeId": 6,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null,
+      "Weight": "20",
+      "StorageReceiptDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378769,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": null,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "dde7a998-e4d2-44fd-aff1-394852d47c99",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "2d9a12bf-fabf-4fa1-b2d4-8e7cb1c47c81",
+    "uploadDate": "2025-03-19T10:05:11.1788462Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:05:11.6731416Z",
+      "actionId": "b2dd215b-652d-42b5-88ba-3e3d0e5bb9d4",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:05:11.442082Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:05:11.4676871Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:05:11.1788576Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "ccc05a88-bebf-47b7-b843-60cc64cdb822",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "5",
+    "typeId": 5,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null,
+      "Weight": "20",
+      "StorageReceiptDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378711,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": null,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "ccc05a88-bebf-47b7-b843-60cc64cdb822",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "1d33b108-32b3-4996-b804-74ce9098c033",
+    "uploadDate": "2025-03-19T10:04:08.8949647Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": "Oksana Chugunna",
+    "senderUserName": "Oksana Chugunna",
+    "senderEmail": "oksanachugunna@gmail.com",
+    "senderUserIds": [
+      "d4cbcd94-a588-44c4-850a-6231db27813b"
+    ],
+    "senderClaimIds": [
+      "c149a4b0-c547-48df-a931-38f279bd6390"
+    ],
+    "actions": [
+      {
+        "type": 2,
+        "status": 0,
+        "state": 0,
+        "statusChangeDate": "2025-03-19T10:04:09.1181113Z",
+        "comment": null,
+        "viewState": 2,
+        "deadlineDate": null,
+        "deadlineAction": 0,
+        "delegatedFromClaimValue": null,
+        "delegatedToClaimValue": null,
+        "id": "67b0fd30-a0e5-42a5-bf2f-c475113c6f2a",
+        "targetClaimSource": 0,
+        "signatureType": 0
+      }
+    ],
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:04:09.3084694Z",
+      "actionId": "7210bb6c-3513-40e2-98d6-b2f665c97258",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання власником сировини",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:04:09.0899941Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "12345678",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "Тестове підприємство \"ТЕСТ ДС\""
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:04:09.1152173Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:04:08.8949782Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1"
+    ],
+    "labels": null,
+    "mainDocumentId": "4b18c446-530a-40e7-b80a-d4b308a9de22",
+    "status": 6,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Немає",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "4",
+    "typeId": 4,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null,
+      "Weight": "20",
+      "DriverPhone": "11 11 11 111",
+      "Quote": "1"
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378651,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1,
+    "endDate": null,
+    "endDateString": null,
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "4b18c446-530a-40e7-b80a-d4b308a9de22",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "b285010a-e349-413b-9415-f0e83b89e882",
+    "uploadDate": "2025-03-19T10:03:03.0587092Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:03:03.5106206Z",
+      "actionId": "d7ab99b4-d162-41e4-986a-dcc8c5e746ed",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:03:03.2517959Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:03:03.2761506Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:03:03.0587271Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "0a3bf274-a184-4a96-b41b-d97d61353afd",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Є",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "3",
+    "typeId": 3,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378583,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1,
+    "endDate": "2026-04-19T00:00:00",
+    "endDateString": "19.04.2026",
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "0a3bf274-a184-4a96-b41b-d97d61353afd",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "ffa4076d-9f05-49c9-a3ff-c0fe22b2d47c",
+    "uploadDate": "2025-03-19T10:02:02.926647Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:02:03.3405228Z",
+      "actionId": "0d43d2f9-6539-4d5c-ba01-63ca093391f1",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:02:03.1154587Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:02:03.1334418Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:02:02.9266582Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "410be8f0-14fd-454b-870c-4bfff510bf16",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Є",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "2",
+    "typeId": 2,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [],
+    "additionalData": {
+      "BaseDocumentDate": null
+    },
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378523,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 1,
+    "endDate": "2026-04-19T00:00:00",
+    "endDateString": "19.04.2026",
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "410be8f0-14fd-454b-870c-4bfff510bf16",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  },
+  {
+    "id": "a7573e02-692b-4ce1-b347-cfd7f08dc9ed",
+    "uploadDate": "2025-03-19T10:01:03.1521643Z",
+    "author": "Тестове підприємство \"ТЕСТ ДС\"",
+    "authorUserId": "d4cbcd94-a588-44c4-850a-6231db27813b",
+    "authorClaimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "authorUserName": "Oksana Chugunna",
+    "authorEmail": "oksanachugunna@gmail.com",
+    "sender": null,
+    "senderUserName": null,
+    "senderEmail": null,
+    "senderUserIds": null,
+    "senderClaimIds": null,
+    "actions": null,
+    "flowProgress": {
+      "type": 2,
+      "status": 0,
+      "statusChangeDate": "2025-03-19T10:01:04.032727Z",
+      "actionId": "f8630ba3-dc47-40ac-b3f0-273f8ed7bf51",
+      "deadlineDate": null,
+      "deadlineAction": 0,
+      "progress": 0,
+      "groupName": "Підписання елеватором",
+      "targets": [
+        {
+          "dateStatusChange": "2025-03-19T10:01:03.6933637Z",
+          "comment": null,
+          "status": 0,
+          "actionViewState": 0,
+          "viewStateMessage": null,
+          "avatarUrl": "https://esigndocuments.blob.core.windows.net/avatars-prod/00000000-0000-0000-0000-000000000001",
+          "claim": "2353614592",
+          "companyIdentifier": null,
+          "personIdentifier": null,
+          "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ"
+        }
+      ]
+    },
+    "doneActions": [
+      {
+        "date": "2025-03-19T10:01:03.7181628Z",
+        "actionType": 0,
+        "actionStatus": 200
+      }
+    ],
+    "creationDate": "2025-03-19T10:01:03.1521772Z",
+    "flags": [
+      8
+    ],
+    "recipientClaimIds": [
+      "e21144ab-0b6e-4094-b11a-b2c0be3483b1",
+      "ac64f19b-e810-4121-aa5d-06a8a5cb3e58"
+    ],
+    "labels": null,
+    "mainDocumentId": "f5a623ab-c12a-427f-ba99-67c260145144",
+    "status": 2,
+    "registrationStatus": 0,
+    "info": {
+      "hasDeadlineOverdue": false,
+      "hasLink": false,
+      "hasError": false,
+      "wasRejected": false,
+      "cannotDeleteAttachments": false,
+      "cannotDeleteLinks": false
+    },
+    "isSigned": false,
+    "isViewed": true,
+    "isProblemSign": false,
+    "isViewerVersion": false,
+    "viewersClaimIds": null,
+    "name": "Э",
+    "date": "2025-03-19T00:00:00",
+    "dateString": "19.03.2025",
+    "number": "1",
+    "typeId": 1,
+    "fileName": "Файл для тесту.pdf",
+    "sides": [
+      {
+        "contractorIdentifier": "2353614592",
+        "name": "ЛИСИЙ ВАЛЕРІЙ МИКОЛАЙОВИЧ",
+        "role": 2,
+        "email": null,
+        "order": null
+      },
+      {
+        "contractorIdentifier": "12345678",
+        "name": "Тесе  ТЕСТ ДС",
+        "role": 1,
+        "email": null,
+        "order": null
+      }
+    ],
+    "cultures": [
+      {
+        "name": "Кукурудза 1-го класу",
+        "year": 2024
+      }
+    ],
+    "additionalData": {},
+    "metadata": {},
+    "privateMetadata": {},
+    "timestamp": 1742378464,
+    "path": 0,
+    "claimId": "ac64f19b-e810-4121-aa5d-06a8a5cb3e58",
+    "totalSum": 2000,
+    "endDate": "2026-04-19T00:00:00",
+    "endDateString": "19.04.2026",
+    "baseDocumentNumber": null,
+    "storageReceiptNumber": null,
+    "basedocumentid": "f5a623ab-c12a-427f-ba99-67c260145144",
+    "storageReceiptId": null,
+    "links": [],
+    "viewers": null
+  }
+]
