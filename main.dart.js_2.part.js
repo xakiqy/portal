@@ -1,12 +1,12 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_2",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={qI:function qI(){}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={u_:function u_(){}}
 B=c[0]
 A=a.updateHolder(c[5],A)
-A.qI.prototype={
-H(d,e){return this.gox(this).$1(e)}}
+A.u_.prototype={
+H(d,e){return this.goX(this).$1(e)}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.qI,B.H)})()};
+y(A.u_,B.L)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_2",e:"endPart",h:b})})($__dart_deferred_initializers__,"gjcG0QHkrPzVLYVSvhCzHFzOwi8=");
+a.eventLog.push({p:"main.dart.js_2",e:"endPart",h:b})})($__dart_deferred_initializers__,"DCcybtosJhbuNbDigLC1TWcg+to=");
