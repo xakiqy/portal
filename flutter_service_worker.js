@@ -402,7 +402,7 @@ const RESOURCES = {"android-chrome-192x192.png": "8b544a8f68e7c749c5014e9e75aabd
 "favicon-32x32.png": "a653f728c65bc101219ae6ed6d75a90b",
 "favicon.ico": "5d8944fa5f3418cca4d6875d85ed3eed",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "c548f8e36761819cac3faa4fa05121ad",
+"flutter_bootstrap.js": "7e877dd88c034893b8b87480fb0cb723",
 "index.html": "a3cf3f1235f80e41f134073ddec4eee8",
 "/": "a3cf3f1235f80e41f134073ddec4eee8",
 "main.dart.js": "0d12382237e41e7d97adadba98d20f7f",
